@@ -1,5 +1,14 @@
 ## 인사이드 아웃
 
+## 프로젝트
+
+<h3>💡 모동, Modong ?</h3> 
+<div align='center'>
+
+  ![스크린샷 2024-08-11 오전 12 37 08](https://github.com/user-attachments/assets/cdaa1674-3616-4276-b4b4-ce2ae1be0e8d)
+
+</center>
+
 ### ✨ 팀 소개
 <b>팀명</b> 인사이드 아웃
 
@@ -43,11 +52,3 @@
     </tr>
     </table>
   </div>
-
-## 프로젝트
-
-### 모동, Modong 
-![image](https://github.com/user-attachments/assets/0044f6b1-ebcd-4dab-9ac6-60dbf42f4152)
-
-" 모여봐요, 동네에서! 모임과 동아리를 만들어요 " </br>
-모동은 사용자 위치기반으로 사교/친목, 운동, 스터디 등의 모임과 동아리를 생성하고 참여할 수 있는 플랫폼입니다.
